@@ -40,11 +40,6 @@ h1 {
 }
 
 .container>p:last-child {
-<<<<<<< HEAD
-	font-size: 0.7em
-	padding-left: 50px;
-=======
 	font-size: 0.7em;
 	text-align: center;
->>>>>>> task-4.2
 }
