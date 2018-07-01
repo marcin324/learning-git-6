@@ -38,3 +38,8 @@ h1 {
 	text-align: justify;
 	padding-left: 50px;
 }
+
+.container>p:last-child {
+	font-size: 0.7em;
+	text-align: center;
+}
