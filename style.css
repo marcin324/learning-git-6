@@ -1,0 +1,45 @@
+/*ZEROWANIE STYLÓW DOMYŚLNYCH*/
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/*BODY*/
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: #007A68;
+}
+
+/*CONTAINER*/
+
+.container {
+	width: 100%;
+	max-width: 600px;
+	margin: 50px auto;
+	background: #fff;
+	padding-bottom: 20px;
+}
+
+/*BANDTITLE*/
+
+h1 {
+	text-align: center;
+	padding-top: 50px;
+	text-shadow: 1px 1px grey;
+}
+
+/*PARAGRAPH*/
+	
+.paragraph {
+	margin: 20px auto;
+	text-align: justify;
+	padding-left: 50px;
+}
+
+.container>p:last-child {
+	font-size: 0.7em;
+	padding-left: 50px;
+}
